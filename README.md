@@ -1,1 +1,1 @@
-# analysis-everpeck
+# everpeak-analysis
